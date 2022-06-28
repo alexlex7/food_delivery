@@ -1,0 +1,19 @@
+.title {
+  margin-bottom: 0;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.listItem {
+  padding: 15px 35px;
+  border: solid 1px black;
+}
+
+.asideContainer {
+  padding: 15px 35px 15px 35px;
+  width: 300px;
+}
