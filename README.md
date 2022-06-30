@@ -2,8 +2,7 @@
 
 ## Start project
 
-1. Установи базовые зависимости проекта командой `npm install`.
-2. Запусти режим разработки, выполнив команду `npm start`.
-3. Перейди в браузере по адресу [http://localhost:3000](http://localhost:3000).
-   Эта страница будет автоматически перезагружаться после сохранения изменений в
-   файлах проекта.
+1. Install the project's basic dependencies with the `npm install` command.
+2. Start the development mode, executed the `npm start` command.
+3. Go to `http://localhost:3000` in your browser. This page will automatically
+   reload after saving the changes in the project files.
