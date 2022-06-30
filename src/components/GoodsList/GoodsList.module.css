@@ -1,0 +1,13 @@
+.list {
+  padding: 20px 50px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  row-gap: 25px;
+  column-gap: 90px;
+  width: 100%;
+  margin-left: 25px;
+  border: solid 1px black;
+  border-radius: 8px;
+  overflow-y: scroll;
+}
